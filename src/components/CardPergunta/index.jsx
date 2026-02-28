@@ -1,3 +1,5 @@
+import "./card-pergunta.css";
+
 export default function CardPergunta({ pergunta, onResponder }) {
     return (
         <div className="cartao-pergunta">
