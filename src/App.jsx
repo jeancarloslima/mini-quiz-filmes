@@ -13,6 +13,21 @@ const perguntas = [
     texto: 'Qual o filme com mais indicações ao Oscar?',
     opcoes: ['Pecadores', 'La La Land', 'Oppenheimer', 'Nenhum desses'],
     respostaCorreta: 'Pecadores'
+  },
+  {
+    texto: 'Qual foi o primeiro filme a ganhar o Oscar de melhor filme?',
+    opcoes: ['Sétimo Céu', '2001: Uma Odisséia no Espaço', 'Asas', 'Nenhum desses'],
+    respostaCorreta: 'Asas'
+  },
+  {
+    texto: 'Quem é o ator/atriz com mais indicações ao Oscar?',
+    opcoes: ['Jack Nicholson', 'Katharine Hepburn', 'Leonardo Dicaprio', 'Nenhum desses'],
+    respostaCorreta: 'Nenhum desses'
+  },
+  {
+    texto: 'Qual foi o primeiro filme de super herói a ser indicado ao Oscar de melhor filme?',
+    opcoes: ['Pantera Negra', 'Batman: O Cavaleiro das Trevas', 'Superman (1978)', 'Nenhum desses'],
+    respostaCorreta: 'Pantera Negra'
   }
 ]
 
