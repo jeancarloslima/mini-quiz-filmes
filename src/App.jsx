@@ -28,6 +28,16 @@ const perguntas = [
     texto: 'Qual foi o primeiro filme de super herói a ser indicado ao Oscar de melhor filme?',
     opcoes: ['Pantera Negra', 'Batman: O Cavaleiro das Trevas', 'Superman (1978)', 'Nenhum desses'],
     respostaCorreta: 'Pantera Negra'
+  },
+  {
+    texto: 'Qual o nome do persongaem de Edward Norton (protagonista) em "Clube da Luta"?',
+    opcoes: ['Tyler Durden', 'John Doe', 'Narrador', 'Alan Wake'],
+    respostaCorreta: 'Narrador'
+  },
+  {
+    texto: 'Qual desses atores não está em "O Poderoso Chefão"?',
+    opcoes: ['Daniel Day-Lewis', 'Marlon Brando', 'Al Pacino', 'Nenhum desses'],
+    respostaCorreta: 'Daniel Day-Lewis'
   }
 ]
 
