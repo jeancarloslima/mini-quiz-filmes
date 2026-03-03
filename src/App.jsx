@@ -5,7 +5,7 @@ import TelaResultado from './components/TelaResultado';
 
 const perguntas = [
   {
-    texto: 'Quem dirigiu o filme Interstellar?',
+    texto: 'Quem dirigiu o filme "Interstellar"?',
     opcoes: ['Quentin Tarantino', 'Christopher Nolan', 'Steven Spielbierg', 'Nenhum desses'],
     respostaCorreta: 'Christopher Nolan'
   },
@@ -21,7 +21,7 @@ const perguntas = [
   },
   {
     texto: 'Quem é o ator/atriz com mais indicações ao Oscar?',
-    opcoes: ['Jack Nicholson', 'Katharine Hepburn', 'Leonardo Dicaprio', 'Nenhum desses'],
+    opcoes: ['Jack Nicholson', 'Katharine Hepburn', 'Leonardo DiCaprio', 'Nenhum desses'],
     respostaCorreta: 'Nenhum desses'
   },
   {
@@ -30,7 +30,7 @@ const perguntas = [
     respostaCorreta: 'Pantera Negra'
   },
   {
-    texto: 'Qual o nome do persongaem de Edward Norton (protagonista) em "Clube da Luta"?',
+    texto: 'Qual o nome do personagem de Edward Norton (protagonista) em "Clube da Luta"?',
     opcoes: ['Tyler Durden', 'John Doe', 'Narrador', 'Alan Wake'],
     respostaCorreta: 'Narrador'
   },
@@ -38,6 +38,21 @@ const perguntas = [
     texto: 'Qual desses atores não está em "O Poderoso Chefão"?',
     opcoes: ['Daniel Day-Lewis', 'Marlon Brando', 'Al Pacino', 'Nenhum desses'],
     respostaCorreta: 'Daniel Day-Lewis'
+  },
+  {
+    texto: 'Quem dirigiu o filme "Pulp Fiction"?',
+    opcoes: ['Francis Ford Coppola', 'Denis Villeneuve', 'Quentin Tarantino', 'Nenhum desses'],
+    respostaCorreta: 'Quentin Tarantino'
+  },
+  {
+    texto: 'Qual desses filmes é dividido em dois volumes?',
+    opcoes: ['Drive', 'Batman: O Cavaleiro das Trevas', 'Matrix', 'Nenhum desses'],
+    respostaCorreta: 'Nenhum desses'
+  },
+  {
+    texto: 'Por qual filme Leonardo DiCaprio ganhou seu primeiro Oscar de melhor ator?',
+    opcoes: ['Ilha do Medo', 'O Lobo de Wall Street', 'A Origem', 'Nenhum desses'],
+    respostaCorreta: 'Nenhum desses'
   }
 ]
 
